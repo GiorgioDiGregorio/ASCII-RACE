@@ -5,23 +5,13 @@
 	  / ____ \ ____) | |____ _| |_ _| |_     | | \ \  / ____ \ |____| |____  
 	 /_/    \_\_____/ \_____|_____|_____|    |_|  \_\/_/    \_\_____|______| 
 
-Il progetto Ë stato realizzato su Visual Studio.
-
-***Componenti del gruppo:***
--Andrea Zecca.
--Luigi Maieri.
--Giovanni Grotto.
--Giorgio Di Gregorio.
-
-------------------
-
 COMANDI GIOCO:
 
 	W, freccia in su : muovi su;
-	S, freccia in gi˘ : muovi gi˘;
+	S, freccia in gi√π : muovi gi√π;
 	A, freccia a sinistra : muovi sx;
 	D, freccia a destra : muovi dx;
-	P, ESC : men˘ di pausa;
+	P, ESC : men√π di pausa;
         INVIO: seleziona.
 
 -------------------
@@ -29,13 +19,13 @@ COMANDI GIOCO:
 COMANDI MENU di selezione della DIFFICOLTA' / MENU di PAUSA:	
 	
 	W: sposta su
-	S: sposta gi˘
+	S: sposta gi√π
 	INVIO: conferma scelta.
 
 --------------------
 
 Sul lato destro della mappa sono visualizzati:
-Difficolt‡; 
+Difficolt√†; 
 Punteggio; 
 Livello;
 Timer del RADDOPPIA; 
@@ -54,7 +44,7 @@ ELENCO DEI SIMBOLI:
  ###
 
 
--OSTACOLI - rappresentati in ROSSO --> fanno perdere punti. 
+-OSTACOLI -rappresentati in ROSSO --> fanno perdere punti. 
 
 TRONCO          CHIODI            BUCO           ENEMY CAR 
 
@@ -64,12 +54,12 @@ TRONCO          CHIODI            BUCO           ENEMY CAR
                                                      #
  
 
--POWERUP - rappresentati in VERDE:
+-POWERUP -rappresentati in VERDE:
 
 SCUDO          RADDOPPIA          BLOCCO PUNTI
  /\               X2                 P++
  \/
 
-SCUDO conferisce immunit‡ dalle collisioni per un breve tempo.
-RADDOPPIA: raddoppia i punti presi durante il tempo in cui questo powerup Ë attivo
+SCUDO conferisce immunit√† dalle collisioni per un breve tempo.
+RADDOPPIA: raddoppia i punti presi durante il tempo in cui questo powerup √® attivo
 BLOCCOPUNTI: conferisce del punteggio extra
