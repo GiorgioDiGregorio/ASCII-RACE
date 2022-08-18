@@ -1,0 +1,4 @@
+C:\Users\andre\OneDrive\Desktop\Progetto Programmazione Attuale\progProgrammazioneVisualStudio\x64\Debug\progProgrammazioneVisualStudio.exe
+C:\Users\andre\OneDrive\Desktop\Progetto Programmazione Attuale\progProgrammazioneVisualStudio\x64\Debug\progProgrammazioneVisualStudio.pdb
+C:\Users\Giorgio Di Gegorio\Desktop\ASCII RACE\Progetto def\Progetto Programmazione Attuale\progProgrammazioneVisualStudio\x64\Debug\progProgrammazioneVisualStudio.exe
+C:\Users\Giorgio Di Gegorio\Desktop\ASCII RACE\Progetto def\Progetto Programmazione Attuale\progProgrammazioneVisualStudio\x64\Debug\progProgrammazioneVisualStudio.pdb

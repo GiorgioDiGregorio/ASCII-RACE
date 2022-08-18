@@ -1,0 +1,12 @@
+C:\Users\andre\OneDrive\Desktop\Progetto Programmazione Visual Studio\progProgrammazioneVisualStudio\Debug\progProgrammazioneVisualStudio.exe
+C:\Users\andre\OneDrive\Desktop\Progetto Programmazione Visual Studio\progProgrammazioneVisualStudio\Debug\progProgrammazioneVisualStudio.pdb
+C:\Users\andre\OneDrive\Desktop\MIE PROVE\progProgrammazioneVisualStudio\Debug\progProgrammazioneVisualStudio.exe
+C:\Users\andre\OneDrive\Desktop\MIE PROVE\progProgrammazioneVisualStudio\Debug\progProgrammazioneVisualStudio.pdb
+C:\Users\MANIERI\Desktop\progProgrammazioneVisualStudio\Debug\progProgrammazioneVisualStudio.exe
+C:\Users\MANIERI\Desktop\progProgrammazioneVisualStudio\Debug\progProgrammazioneVisualStudio.pdb
+C:\Users\andre\OneDrive\Desktop\progProgrammazioneVisualStudio\Debug\progProgrammazioneVisualStudio.exe
+C:\Users\andre\OneDrive\Desktop\progProgrammazioneVisualStudio\Debug\progProgrammazioneVisualStudio.pdb
+C:\Users\andre\OneDrive\Desktop\Progetto Programmazione Attuale\progProgrammazioneVisualStudio\Debug\progProgrammazioneVisualStudio.exe
+C:\Users\andre\OneDrive\Desktop\Progetto Programmazione Attuale\progProgrammazioneVisualStudio\Debug\progProgrammazioneVisualStudio.pdb
+C:\Users\andre\Downloads\PROVA NUOVO PROG\progProgrammazioneVisualStudio\Debug\progProgrammazioneVisualStudio.exe
+C:\Users\andre\Downloads\PROVA NUOVO PROG\progProgrammazioneVisualStudio\Debug\progProgrammazioneVisualStudio.pdb

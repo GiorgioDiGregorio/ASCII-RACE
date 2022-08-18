@@ -1,0 +1,3 @@
+﻿  gameManager.cpp
+C:\Users\Giorgio Di Gegorio\Desktop\ASCII RACE\Progetto def\Progetto Programmazione Attuale\progProgrammazioneVisualStudio\gameManager.cpp(36,12): warning C4244: 'argomento': conversione da 'time_t' a 'unsigned int'. Possibile perdita di dati.
+  progProgrammazioneVisualStudio.vcxproj -> C:\Users\Giorgio Di Gegorio\Desktop\ASCII RACE\Progetto def\Progetto Programmazione Attuale\progProgrammazioneVisualStudio\x64\Debug\progProgrammazioneVisualStudio.exe

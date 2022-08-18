@@ -1,0 +1,5 @@
+﻿  gameManager.cpp
+C:\Users\andre\OneDrive\Desktop\Progetto Programmazione Attuale\progProgrammazioneVisualStudio\gameManager.cpp(28,12): warning C4244: 'argomento': conversione da 'time_t' a 'unsigned int'. Possibile perdita di dati.
+  main.cpp
+  Generazione del codice in corso...
+  progProgrammazioneVisualStudio.vcxproj -> C:\Users\andre\OneDrive\Desktop\Progetto Programmazione Attuale\progProgrammazioneVisualStudio\Debug\progProgrammazioneVisualStudio.exe
