@@ -8,7 +8,7 @@ Group project made for the Programming Course at Unibo (a.a.2019/2020), consisti
 - The map is dynamically generated, one level at a time, in ASCII graphics;
 
 ### Authors: 
-Giorgio Di Gregorio
-Andrea Zecca
-Giovanni Grotto
-Luigi Manieri
+- Giorgio Di Gregorio
+- Andrea Zecca
+- Giovanni Grotto
+- Luigi Manieri
